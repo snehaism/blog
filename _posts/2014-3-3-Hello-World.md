@@ -6,44 +6,53 @@ author: Sneha Karki
 ---
 
 <!-- Start writing below this line -->
-Why do we remember yesterday but not tomorrow?
+Why Do We Remember Yesterday but Not Tomorrow?
 
-This question might seem whimsical at first glance, but it strikes at the heart of a profound mystery in physics: Why does time have a direction? We wake up each day older, never younger. Coffee cools down, never heats up spontaneously. Broken cups don’t jump off the floor and reassemble on the table. And yet, many of the laws that govern the universe don’t care which way time flows. So—why does it always move forward?
+This question might seem whimsical at first glance, but it strikes at the heart of a profound mystery in physics: Why does time have a direction? We wake up each day older, never younger. Coffee cools down, never heats up spontaneously. Broken cups don’t jump off the floor and reassemble on the table. And yet, many of the laws that govern the universe don’t care which way time flows. So why does it always move forward?
 
 Welcome to the paradox of the arrow of time.
 
-The Thermodynamic Arrow of Time
-At the core of our intuitive experience of time lies entropy, a measure of disorder. According to the Second Law of Thermodynamics, in a closed system, entropy tends to increase.Think of it this way:Ice melts into water.A hot cup of tea cools down in a room.A shuffled deck of cards doesn’t unshuffle itself.These are irreversible processes. They go one way: from order to disorder. Physicists call this the thermodynamic arrow of time.Entropy is the key reason we can distinguish the past from the future. A broken egg on the floor tells us which event came first. But while this law appears absolute in everyday life, it emerges from probability, not fundamental asymmetry. The universe tends toward more probable (disordered) states—not because it must, but because it’s overwhelmingly likely.
-The Great Paradox: Time-Symmetric Laws
-Here’s where the mystery deepens:Nearly all fundamental equations of physics are time-reversible. Newton’s Laws: If you reverse the velocity of a planet, it simply retraces its orbit.Maxwell’s Equations (for electromagnetism): Work just fine in both directions. The Schrödinger Equation (quantum mechanics): Is completely symmetric in time.
-So if the core laws of the universe are blind to past or future, why do we observe such strong directionality in the real world? The answer lies not in the laws themselves, but in initial conditions.
+The Thermodynamic Arrow
+At the heart of this puzzle lies the concept of entropy, a measure of disorder. According to the Second Law of Thermodynamics, in any closed system, entropy tends to increase. This tendency gives rise to processes we all recognize: ice melts, hot tea cools, and shuffled cards don’t spontaneously reorder themselves. These transformations are irreversible—they only go one way. Physicists refer to this as the thermodynamic arrow of time.
 
-Our universe began in an extremely low-entropy state—remarkably ordered. That imbalance set the direction of time’s flow. Ever since the Big Bang, entropy has been increasing, and time has marched forward with it.
+Entropy allows us to distinguish the past from the future. A broken egg on the floor clearly indicates that it was once whole—but not the other way around. Still, it’s important to note that this law is probabilistic, not absolute. The universe doesn’t have to move toward disorder. It just overwhelmingly tends to, because disordered states are vastly more probable than ordered ones.
 
-Other Arrows of Time
-There’s more than one arrow guiding us:
+A Paradox in the Laws of Physics
+Here’s where the story takes a twist: the fundamental laws of physics are time-symmetric. Whether you're looking at Newton’s laws of motion, Maxwell’s equations of electromagnetism, or the Schrödinger equation in quantum mechanics, they all work just as well forward or backward in time. If you reversed the velocity of a planet in its orbit, it would simply trace its path in reverse. Nothing in the equations would protest.
 
-The Psychological Arrow: We remember the past, not the future. This is a direct reflection of entropy: memories are records—low-entropy imprints of high-entropy processes. The act of remembering requires information storage, which itself increases entropy.
+So if the laws themselves are indifferent to time’s direction, why do we experience such a clear arrow of time? The answer, it turns out, isn’t in the laws—it’s in the initial conditions of the universe.
 
-The Cosmological Arrow: The universe is expanding, not contracting. If the cosmos ever reversed and started shrinking, would time flow backward too? Some theories speculate that time’s arrow might flip in such a scenario.
+Our cosmos began in a state of incredibly low entropy—a highly ordered beginning. From that moment, entropy has been increasing, giving rise to the temporal flow we experience. In other words, the arrow of time is a consequence of the universe’s starting point.
 
-The Causal Arrow: Cause precedes effect. We light a match and then see a flame. Reversing this sequence violates our deepest intuitions—but not the equations themselves.
+The Multiple Arrows Guiding Time
+Time’s directionality isn’t just thermodynamic. It reveals itself in other forms as well:
 
-Quantum Mechanics: Still Time-Symmetric?
-At the quantum level, time gets even weirder. The Schrödinger equation is symmetric, but quantum measurements—when a system “collapses” into a definite state—seem to break this symmetry. Here, decoherence enters the picture: when quantum systems interact with the environment, they lose their quantum behavior and appear classical. This process is effectively irreversible and might underpin the thermodynamic arrow. Some physicists propose that the act of observation itself helps define the direction of time. But that idea opens up a philosophical can of worms: is time’s flow dependent on consciousness? Or does it only appear that way?
+The Psychological Arrow: We remember the past but not the future. Memory requires physical traces—imprints stored in low-entropy systems. As we form memories, entropy increases, anchoring us to a one-way perception of time.
 
-Could Time Be an Illusion?
-Some speculative theories propose that time is not fundamental—it’s an emergent property of a deeper, timeless reality.
+The Cosmological Arrow: The universe is expanding, not contracting. If, someday, cosmic expansion halted and reversed, some theorists wonder whether time’s arrow might reverse too.
 
-In this view:The universe exists as a complete 4D block (past, present, future—all at once). The “flow” of time is a psychological construction, an illusion generated by how our brains process information. Entropy’s increase might simply be a statistical pattern embedded in the fabric of this block universe. Physicist Julian Barbour has even argued that “time does not exist” as we think of it. All that exists are “Nows”—individual configurations of the universe—and our experience of continuity is a trick of memory.
+The Causal Arrow: Causes precede effects. We strike a match before seeing the flame, not after. This is deeply ingrained in our understanding of reality, though once again, the underlying equations don’t insist on this order.
 
-Could Time Run Backward in Another Universe?
-Some theories of the multiverse or cyclic cosmology suggest that other regions of space-time might operate with a reversed arrow of time. To an observer in such a universe, their arrow would feel just as natural as ours—only backward from our point of view.
+Time at the Quantum Scale
+Dive into the quantum world, and time becomes even murkier. The Schrödinger equation is time-symmetric, but the process of measurement—when a quantum system collapses into a definite state—introduces apparent irreversibility. This is where decoherence plays a role: when a quantum system interacts with its environment, it loses its quantum behavior and begins to look classical. This loss, which seems one-way, could help explain the thermodynamic arrow on a fundamental level.
 
-This raises haunting questions:
-Is the “future” already real? Are we just sliding along a predetermined path in a block universe? Could advanced civilizations exist that experience time differently? So why does time move forward?
+Some physicists even argue that observation itself plays a role in determining time’s flow. That raises deeply philosophical questions: is time’s direction tied to consciousness? Or does it just seem that way because we’re embedded in the system we’re trying to observe?
 
-The best current answer is this:The laws of physics are symmetric.But our universe began in a very special, low-entropy state.
-Since then, entropy has increased, and with it, the illusion or experience of time flowing forward.
-Yet this doesn’t feel like a complete answer.The fact that something as universal as time’s arrow arises from initial conditions, not physical laws, leaves us with a deep sense of incompleteness.
-If physics doesn’t forbid time from flowing backward, then what truly makes it go forward?Is it entropy? Consciousness? The structure of the cosmos itself? Or is our entire perception of time just a story our minds tell us—to make sense of a universe that’s far stranger than we ever imagined?Time flows like a river—but perhaps only because we’re fish who never learned to swim upstream.
+Is Time Even Real?
+A growing body of theoretical work suggests that time might not be fundamental at all—but rather, an emergent property of a deeper, timeless reality. In this perspective, the universe is a four-dimensional block: past, present, and future all coexist. Our experience of time “flowing” is merely how our brains process a sequence of events.
+
+Physicist Julian Barbour famously proposed that "time does not exist" as we usually think of it. Instead, the universe consists of a vast collection of “Nows”—static configurations. Our sense of motion through time is a kind of mental illusion, generated by the way our minds knit these moments together.
+
+Could Time Flow Backward Elsewhere?
+Some theories in cosmology and the multiverse suggest that other regions of the universe—or even other universes—might have a reversed arrow of time. In such realms, beings would perceive their own “forward” in the opposite direction from ours. To them, we would appear to move backward.
+
+This idea raises unsettling possibilities. Is the future already fixed, simply waiting for us to experience it? Are we gliding through a block universe on a path that was always determined? Might other forms of life exist that perceive or manipulate time in ways completely alien to us?
+
+So Why Does Time Flow Forward?
+The best current answer is: it doesn’t have to. The laws of physics don’t force it. But the universe began in an extraordinarily low-entropy state, and that has shaped everything since. As entropy increases, our experience of time flows with it. Our memories form, our stars burn out, and our lives unfold—all aligned with this thermodynamic tide.
+
+Still, this explanation feels incomplete. The fact that something as universal as time’s direction emerges not from hard physical laws but from a single cosmic starting point leaves many physicists—and philosophers—restless.
+
+If nothing forbids time from running backward, what truly compels it forward? Is it entropy, consciousness, cosmology, or just an artifact of how we’re wired to perceive change?
+
+Perhaps time flows like a river only because we are fish in the current—creatures shaped by the flow, never taught to swim upstream.
