@@ -13,11 +13,13 @@ This question might seem whimsical at first glance, but it strikes at the heart 
 Welcome to the paradox of the arrow of time.
 
 The Thermodynamic Arrow
+
 At the heart of this puzzle lies the concept of entropy, a measure of disorder. According to the Second Law of Thermodynamics, in any closed system, entropy tends to increase. This tendency gives rise to processes we all recognize: ice melts, hot tea cools, and shuffled cards don’t spontaneously reorder themselves. These transformations are irreversible—they only go one way. Physicists refer to this as the thermodynamic arrow of time.
 
-Entropy allows us to distinguish the past from the future. A broken egg on the floor clearly indicates that it was once whole—but not the other way around. Still, it’s important to note that this law is probabilistic, not absolute. The universe doesn’t have to move toward disorder. It just overwhelmingly tends to, because disordered states are vastly more probable than ordered ones.
+Entropy allows us to distinguish the past from the future. A broken egg on the floor clearly indicates that it was once whole but not the other way around. Still, it’s important to note that this law is probabilistic, not absolute. The universe doesn’t have to move toward disorder. It just overwhelmingly tends to, because disordered states are vastly more probable than ordered ones.
 
 A Paradox in the Laws of Physics
+
 Here’s where the story takes a twist: the fundamental laws of physics are time-symmetric. Whether you're looking at Newton’s laws of motion, Maxwell’s equations of electromagnetism, or the Schrödinger equation in quantum mechanics, they all work just as well forward or backward in time. If you reversed the velocity of a planet in its orbit, it would simply trace its path in reverse. Nothing in the equations would protest.
 
 So if the laws themselves are indifferent to time’s direction, why do we experience such a clear arrow of time? The answer, it turns out, isn’t in the laws—it’s in the initial conditions of the universe.
@@ -25,6 +27,7 @@ So if the laws themselves are indifferent to time’s direction, why do we exper
 Our cosmos began in a state of incredibly low entropy—a highly ordered beginning. From that moment, entropy has been increasing, giving rise to the temporal flow we experience. In other words, the arrow of time is a consequence of the universe’s starting point.
 
 The Multiple Arrows Guiding Time
+
 Time’s directionality isn’t just thermodynamic. It reveals itself in other forms as well:
 
 The Psychological Arrow: We remember the past but not the future. Memory requires physical traces—imprints stored in low-entropy systems. As we form memories, entropy increases, anchoring us to a one-way perception of time.
@@ -34,7 +37,7 @@ The Cosmological Arrow: The universe is expanding, not contracting. If, someday,
 The Causal Arrow: Causes precede effects. We strike a match before seeing the flame, not after. This is deeply ingrained in our understanding of reality, though once again, the underlying equations don’t insist on this order.
 
 Time at the Quantum Scale
-Dive into the quantum world, and time becomes even murkier. The Schrödinger equation is time-symmetric, but the process of measurement—when a quantum system collapses into a definite state—introduces apparent irreversibility. This is where decoherence plays a role: when a quantum system interacts with its environment, it loses its quantum behavior and begins to look classical. This loss, which seems one-way, could help explain the thermodynamic arrow on a fundamental level.
+Dive into the quantum world, and time becomes even murkier. The Schrödinger equation is time-symmetric, but the process of measurement—when a quantum system collapses into a definite state introduces apparent irreversibility. This is where decoherence plays a role: when a quantum system interacts with its environment, it loses its quantum behavior and begins to look classical. This loss, which seems one-way, could help explain the thermodynamic arrow on a fundamental level.
 
 Some physicists even argue that observation itself plays a role in determining time’s flow. That raises deeply philosophical questions: is time’s direction tied to consciousness? Or does it just seem that way because we’re embedded in the system we’re trying to observe?
 
