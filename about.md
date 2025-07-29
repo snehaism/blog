@@ -8,7 +8,7 @@ permalink: /about/
 Sup? I'm an Undergrad writing my thought out!!!
 
 ### More Information
-   >>_<
+:)
 
 ### Contact me
 
