@@ -3,23 +3,16 @@ title: Sneha Karki
 description: Web Developer from Somewhere
 author: Sneha Karki
 email: your-email@example.com
-url: "https://your-username.github.io" # change to your GitHub Pages URL
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://your-username.github.io" # ← change this to your actual GitHub Pages URL
+baseurl: "/blog"                        # ← change this if your repo is not named "blog"
 
 # Theme
 theme: minima
 
-# Social links (footer icons in minima)
+# Social links (optional – only add what you use)
 social_links:
-  github: https://github.com/barryclark/jekyll-now
-  twitter: https://twitter.com/jekyllrb
+  github: https://github.com/yourusername
   linkedin: https://linkedin.com/in/yourusername
-  instagram: https://instagram.com/yourusername
-  facebook: https://facebook.com/yourusername
-  youtube: https://youtube.com/user/yourchannelname
-
-# Avatar/Profile Image
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 # Build settings
 markdown: kramdown
