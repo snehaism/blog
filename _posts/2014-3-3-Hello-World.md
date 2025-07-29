@@ -1,9 +1,9 @@
-----
+---
 layout: post
 title: Why Does Time Only Move Forward?
 date: 2025-07-29
 author: Sneha Karki
-----
+---
 
 <!-- Start writing below this line -->
 Why do we remember yesterday but not tomorrow?
