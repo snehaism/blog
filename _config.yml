@@ -3,7 +3,7 @@ title: Sneha Karki
 description: Web Developer from Somewhere
 author: Sneha Karki
 email: your-email@example.com
-url: "https://your-username.github.io" # ← change this to your actual GitHub Pages URL
+url: "https://snehaism.github.io/blog/" # ← change this to your actual GitHub Pages URL
 baseurl: "/blog"                        # ← change this if your repo is not named "blog"
 
 # Theme
@@ -11,8 +11,8 @@ theme: minima
 
 # Social links (optional – only add what you use)
 social_links:
-  github: https://github.com/yourusername
-  linkedin: https://linkedin.com/in/yourusername
+  github: https://github.com/snehaism
+  linkedin: https://www.linkedin.com/in/sneha-karki/
 
 # Build settings
 markdown: kramdown
