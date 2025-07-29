@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+
+Sup? I'm an Undergrad writing my thought out!!!
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+>_<
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[081bch041.sneha@pcampus.edu.np](mailto:email@domain.com)
